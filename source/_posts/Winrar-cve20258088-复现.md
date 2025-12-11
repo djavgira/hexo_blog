@@ -18,7 +18,7 @@ tags:
 <p>获取生成payload的脚本<br>
 
 [poc脚本](https://github.com/sxyrxyy/CVE-2025-8088-WinRAR-Proof-of-Concept-PoC-Exploit-)
-
+< https://github.com/sxyrxyy/CVE-2025-8088-WinRAR-Proof-of-Concept-PoC-Exploit-
 
 ### 步骤
 

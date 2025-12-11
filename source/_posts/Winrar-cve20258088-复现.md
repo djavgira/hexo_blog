@@ -1,3 +1,9 @@
+---
+title: Winrar_cve20258088_复现
+date: 2025-12-11 13:05:13
+tags:
+---
+
 ## 个人复现winrar cve 20258088目录遍历 12.9
 
 ### 环境
@@ -10,7 +16,9 @@
 2.test_a.txt诱饵
 3.poc脚本
 <p>获取生成payload的脚本<br>
-<https://github.com/sxyrxyy/CVE-2025-8088-WinRAR-Proof-of-Concept-PoC-Exploit->
+
+[poc脚本](https://github.com/sxyrxyy/CVE-2025-8088-WinRAR-Proof-of-Concept-PoC-Exploit-)
+
 
 ### 步骤
 
